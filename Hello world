@@ -1,3 +1,4 @@
 import random
 list =["pepar","scissor","rock"]
 li=random.choice(list)
+userchoose=random.choice(li)
